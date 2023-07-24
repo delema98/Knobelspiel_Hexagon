@@ -2,7 +2,7 @@ import time
 
 tstart = time.time()
 
-outputFile = "results.txt"
+outputFile = "results_bruteforce.txt"
 max = 20
 allSolutions = []
 
